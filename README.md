@@ -67,7 +67,7 @@ Tired of losing your comment while scrolling through long GitHub threads? This t
 
 ## 🙇‍♂️ Would you use this?
 
-I’d love feedback! File an issue or tweet at me [@pedromassango](https://twitter.com/pedromassango).
+I’d love feedback! File an issue or tweet at me [@pedromassangom](https://twitter.com/pedromassangom).
 Ideas, bugs, and PRs welcome!
 
 ---
