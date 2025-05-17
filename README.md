@@ -15,7 +15,7 @@ A lightweight browser extension that makes GitHub issue and PR comment boxes **f
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 
@@ -33,16 +33,16 @@ cd GithubHelper
 
 ---
 
-## 🛠️ Current Issues & Limitations
+## Current Issues & Limitations
 
-* ❌ Doesn't work on the **new issue composer UI** (`MarkdownEditor-module__container`) — support in progress
-* 🖼️ No styling/theme customization yet
-* 🧪 Only tested on Chrome — support for Firefox/Edge is untested
-* 🔁 Floating box might break if GitHub’s DOM structure changes
+* Doesn't work on the **new issue composer UI** (`MarkdownEditor-module__container`) — support in progress
+* No styling/theme customization yet
+* Only tested on Chrome — support for Firefox/Edge is untested
+* Floating box might break if GitHub’s DOM structure changes
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 GithubHelper/
@@ -53,19 +53,19 @@ GithubHelper/
 
 ---
 
-## 📜 License
+## License
 
 MIT — free for personal and commercial use, with attribution.
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 Tired of losing your comment while scrolling through long GitHub threads? This tool helps you write better responses by keeping the comment box in view — just like sticky notes for GitHub.
 
 ---
 
-## 🙇‍♂️ Would you use this?
+## Would you use this?
 
 I’d love feedback! File an issue or tweet at me [@pedromassangom](https://twitter.com/pedromassangom).
 Ideas, bugs, and PRs welcome!
