@@ -3,7 +3,7 @@
 A lightweight browser extension that makes GitHub issue and PR comment boxes **float** as draggable overlays. Keep context while writing replies, especially for long threads!
 
 
-![Demo Screenshot](/assets/preview.mp4)
+![Demo Screenshot](/assets/preview.gif)
 
 ---
 
