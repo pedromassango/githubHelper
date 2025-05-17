@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Helper",
+  "description": "Move the GitHub comment box to a floating window like Gmail and (maybe) more.",
+  "version": "1.0",
+  "permissions": ["scripting"],
+  "host_permissions": ["https://github.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
